@@ -1,3 +1,5 @@
+## [v0.107.2](https://github.com/h6ah4i/runn/compare/v0.103.2...v0.107.2) - 2024-05-19
+
 ## [v0.107.2](https://github.com/k1LoW/runn/compare/v0.107.1...v0.107.2) - 2024-05-16
 ### Fix bug 🐛
 - Fix a missing line bug when including a multi-line string. by @k1LoW in https://github.com/k1LoW/runn/pull/921
